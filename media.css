@@ -1,0 +1,123 @@
+@media(min-width:768px) and (max-width:991px) {
+    .slicknav_menu {
+        display: none;
+    }
+    .about_us_header {
+        padding: 0 14%;
+        text-align: center;
+    }
+    .button {
+        padding: 20px;
+        text-align: center;
+    }
+    .btn-group-xs > .btn,
+    .btn-xs {
+        background-color: #fff;
+        border: 1px solid #bdbdbd;
+        border-radius: 0;
+        color: #474747;
+        font-family: Montserrat;
+        font-size: 18px;
+        line-height: 1.5;
+        padding: 18px 72px;
+    }
+    .team_details {
+        text-align: center;
+        padding-bottom: 18px;
+    }
+    .mrg_top {
+        margin-top: 47px;
+        text-align: center;
+    }
+    .pdt_btm {
+        padding-bottom: 47px;
+    }
+    .featuring {
+        margin-left: 0;
+        padding-top: 16px;
+        width: 100%;
+    }
+    .feature_bg {
+        background-color: #243851;
+        text-align: center;
+    }
+    .top {
+        background-color: #f7f7f7;
+        margin-top: 19px;
+        padding: 29px 0;
+        text-align: center;
+    }
+    .butt {
+        padding: 7px 144px;
+    }
+    .up {
+        padding-top: 29px;
+    }
+}
+
+@media(min-width:320px) and (max-width:767px) {
+    .slicknav_menu {
+        display: block;
+    }
+    .slicknav_menu {
+        background-color: #DB7817!important;
+        box-sizing: border-box;
+        font-size: 16px;
+        padding: 5px;
+    }
+    .about_us_header {
+        padding: 0 9%;
+        text-align: center;
+    }
+    .logo {
+        padding: 20px 20px 20px 100px;
+    }
+    .heading {
+        padding-bottom: 238px;
+        padding-top: 69px;
+        text-align: center;
+    }
+    .button {
+        padding-top: 20px;
+        text-align: center;
+        padding-bottom: 28px;
+    }
+    .team_details {
+        text-align: center;
+        padding-bottom: 27px;
+    }
+    .pdt_btm_xs {
+        text-align: center;
+    }
+    .feature_bg > h3 {
+        color: #ffffff;
+        font-family: Montserrat;
+        font-size: 19px;
+        padding: 48px;
+    }
+    .featuring {
+        margin-left: 6px;
+        width: 98.333%;
+        text-align: center;
+    }
+    .top {
+        background-color: #f7f7f7;
+        margin-top: 19px;
+        padding: 29px 0;
+        text-align: center;
+    }
+    .butt {
+        padding-bottom: 45px;
+    }
+    .up {
+        padding-top: 29px;
+    }
+    .btn-group-lg > .btn,
+    .btn-lg {
+        border-radius: 0;
+        font-size: 18px;
+        line-height: 1.33333;
+        padding: 18px 124px;
+        width: 100%;
+    }
+}
